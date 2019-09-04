@@ -1,1 +1,3 @@
 # Teknik-Servis-Programi
+Projenin Amacı: Projemiz teknik servis kullanımı için oluşturulmuştur. Amacı teknik servislerin girdi çıktılarını tutarak kolaylık sağlamaktadır.
+Projemizde kayıtlarımızı not defterinde tutuyoruz. Ayrıca bir not defteri daha oluşturduk burada kişi numarasını tutuyoruz. Programımız Ürün ve bilgilerini ekleyip silebiliyor, var olan ürünleri istenilen düzene göre(Tüm ürünler-Yapım aşamasında- teslim edildi) listeleyebiliyor, Kayıtlar arasında arama yapıp istenilen kaydın bilgilerini ekrana yazdırabiliyor, ürünlerin teslim edilip edilmediğini kontrol edebiliyor ve en son olarak çıkış yapıyor.
